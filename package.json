@@ -1,0 +1,26 @@
+{
+  "name": "@njiruclinton/pineart",
+  "version": "1.0.0",
+  "description": "convert text to simple ascii art",
+  "main": "pineart.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NjiruClinton/pineart.git"
+  },
+  "keywords": [
+    "pineart"
+  ],
+  "author": "Clinton Njiru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NjiruClinton/pineart/issues"
+  },
+  "homepage": "https://github.com/NjiruClinton/pineart#readme",
+  "dependencies": {
+    "pineart": "^1.0.0"
+  }
+}
