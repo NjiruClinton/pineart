@@ -7,7 +7,7 @@ npm i pineart --save
 # How to use
 
 ```javascript
-import { Pineart } from 'pineart'
+import  pineart from 'pineart'
 
 
 pineart("Hello World");

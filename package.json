@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/NjiruClinton/pineart#readme",
   "dependencies": {
+    "@njiruclinton/pineart": "^1.0.0",
     "pineart": "^1.0.0"
   }
 }
